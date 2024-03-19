@@ -4,4 +4,8 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+        Ejer1.cpp \
         main.cpp
+
+HEADERS += \
+    Ejers.h
